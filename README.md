@@ -25,38 +25,6 @@ This API allows users to create events, register for them, cancel registrations,
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repo:**
-```bash
-git clone https://github.com/yourusername/event-management-api.git
-cd event-management-api
-```
-
-2. **Install dependencies:**
-```bash
-npm install
-```
-
-3. **Setup `.env` file:**
-```
-MONGO_URI=your_mongodb_url
-PORT=5000
-```
-
-4. **Start server:**
-```bash
-npm run dev
-```
-
-If everything works, you’ll see:
-```
-🚀 Server running on port 5000
-✅ MongoDB connected
-```
-
----
-
 ## 🧪 API Endpoints
 
 ### Create a User
@@ -116,7 +84,7 @@ If everything works, you’ll see:
 
 ## 📥 Postman Collection
 You can import this into Postman to test the API:
-https://.postman.co/workspace/My-Workspace~e7ce3753-0c24-4bdc-8e6c-cca1f09ce71e/collection/40340107-185ea3e8-1077-42ec-940f-c290a0b708e6?action=share&creator=40340107
+[download postman collection ](Event Management API.postman_collection.json)
 
 ---
 
